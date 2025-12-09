@@ -185,7 +185,7 @@ See [Groq's model documentation](https://console.groq.com/docs/models) for the c
 ## 📸 Screenshots
 
 ### Main Chat Interface
-![Main Chat Interface]('images/screenshot.png')
+![Main Chat Interface](public/images/screenshot.png)
 
 ---
 

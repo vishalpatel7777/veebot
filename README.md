@@ -2,7 +2,7 @@
 
 A modern AI-powered chat application built with Next.js 16, React 19, and Groq's ultra-fast LLM inference. Chat with Meta's Llama 3.3 70B model in real-time with a beautiful, responsive interface.
 
-🌐 **Live Demo:** [Coming Soon]  
+🌐 **Live Demo:** [Click Here!!](https://veebot-five.vercel.app)   
 🔧 **Status:** Actively maintained 🚀
 
 ---
@@ -185,7 +185,7 @@ See [Groq's model documentation](https://console.groq.com/docs/models) for the c
 ## 📸 Screenshots
 
 ### Main Chat Interface
-
+![Main Chat Interface]('images/screenshot.png')
 
 ---
 
